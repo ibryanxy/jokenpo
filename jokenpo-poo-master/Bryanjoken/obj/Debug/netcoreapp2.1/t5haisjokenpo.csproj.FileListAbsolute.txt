@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\t5haisjokenpo\t5haisjokenpo\obj\Debug\netcoreapp2.1\t5haisjokenpo.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\t5haisjokenpo\t5haisjokenpo\obj\Debug\netcoreapp2.1\t5haisjokenpo.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\t5haisjokenpo\t5haisjokenpo\obj\Debug\netcoreapp2.1\t5haisjokenpo.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\t5haisjokenpo\t5haisjokenpo\obj\Debug\netcoreapp2.1\t5haisjokenpo.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\t5haisjokenpo\t5haisjokenpo\bin\Debug\netcoreapp2.1\t5haisjokenpo.deps.json
+C:\Users\Aluno\source\repos\t5haisjokenpo\t5haisjokenpo\bin\Debug\netcoreapp2.1\t5haisjokenpo.runtimeconfig.json
+C:\Users\Aluno\source\repos\t5haisjokenpo\t5haisjokenpo\bin\Debug\netcoreapp2.1\t5haisjokenpo.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\t5haisjokenpo\t5haisjokenpo\bin\Debug\netcoreapp2.1\t5haisjokenpo.dll
+C:\Users\Aluno\source\repos\t5haisjokenpo\t5haisjokenpo\bin\Debug\netcoreapp2.1\t5haisjokenpo.pdb
+C:\Users\Aluno\source\repos\t5haisjokenpo\t5haisjokenpo\obj\Debug\netcoreapp2.1\t5haisjokenpo.dll
+C:\Users\Aluno\source\repos\t5haisjokenpo\t5haisjokenpo\obj\Debug\netcoreapp2.1\t5haisjokenpo.pdb
